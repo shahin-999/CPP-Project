@@ -1,0 +1,12 @@
+cse101
+computer_fundamentam_in_C
+Reema_Thareje
+120
+cse111
+Teach_yourself_in_C
+Herbert_Schildt
+145
+cse121
+Teach_your_self_in_C++
+Herbert_Schildt
+170
